@@ -1,0 +1,11 @@
+{
+  "display_name": "Acsus-Kissaten",
+  "loading_order": 1,
+  "requires": [],
+  "optional": [],
+  "js": "dist/index.js",
+  "css": "dist/index.css",
+  "author": "AcSus",
+  "version": "0.0.1",
+  "auto_update": false
+}
