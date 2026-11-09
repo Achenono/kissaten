@@ -6,6 +6,6 @@
   "js": "dist/index.js",
   "css": "dist/index.css",
   "author": "AcSus",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "auto_update": false
 }
